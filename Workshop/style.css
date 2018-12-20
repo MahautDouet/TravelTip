@@ -1,0 +1,129 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+	margin: auto;
+  min-height: 100vh;
+  padding: 0px 0px;
+  position: relative;
+}
+
+body {
+  margin: 0px;
+  background-color: pink;
+}
+
+.center {
+	text-align: center;
+}
+
+h1 {
+	font-size: 24px;
+	font-family: Futura;
+	font-style: bold;
+	padding-top: 60px;
+}
+
+h2 {
+	font-family: Futura;
+	font-size: 22px;
+	font-style: bold;
+	padding-left: 170px;
+	padding-top: 50px;
+}
+
+.next {
+	width: 30px;
+	height: 550px;
+	background-color: red;
+	position: absolute;
+    right: 0;
+    top: 170px;
+    opacity: 0;
+}
+
+.back {
+	width: 30px;
+	height: 550px;
+	background-color: blue;
+	position: absolute;
+    left: 0;
+    top: 170px;
+    opacity: 0;
+}
+
+.pass {
+	width: 165px;
+	height: 60px;
+	background-color: green;
+	position: absolute;
+    left: 125;
+    top: 680px;
+    opacity: 0;
+}
+
+.arrow {
+	width: 60px;
+	height: 60px;
+	background-color: green;
+	position: absolute;
+    left: 0;
+    top: 0px;
+    opacity: 0;
+}
+
+
+.home {
+	width: 100px;
+	height: 150px;
+	background-color: green;
+	position: absolute;
+    left: 0;
+    top: 770px;
+    opacity: 0;
+}
+
+.ms {
+	width: 420px;
+	height: 140px;
+	background-color: green;
+	position: absolute;
+    left: 0;
+    top: 180px;
+    opacity: 0;
+}
+
+
+.msis {
+	width: 420px;
+	height: 160px;
+	background-color: green;
+	position: absolute;
+    left: 0;
+    top: 180px;
+    opacity: 0;
+}
+
+.pass2 {
+	width: 165px;
+	height: 60px;
+	background-color: green;
+	position: absolute;
+    left: 125;
+    top: 750px;
+    opacity: 0;
+
+p {
+	padding-left: 170px
+}
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.card img {
+  width: 150px;
+}
+.card h2 {
+  padding-left: 20px;
+}

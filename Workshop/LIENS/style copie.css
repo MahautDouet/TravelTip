@@ -1,0 +1,18 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+	margin: 0px;
+  min-height: 100vh;
+  padding: 0px 0px;
+}
+
+body {
+  margin: 0px;
+  padding:0px;
+  background-color: pink;
+}
+
+.hello {
+  size: 80%;
+
+}
